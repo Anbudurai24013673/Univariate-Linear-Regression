@@ -34,7 +34,7 @@ pyplot.show()
 
 ```
 ## Output
-![alt text](<WhatsApp Image 2024-12-26 at 13.43.11_0a55599e.jpg>)
+![alt text](<Image 2024-12-26 at 13.43.11_0a55599e.jpg>)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
